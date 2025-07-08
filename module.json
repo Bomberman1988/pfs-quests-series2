@@ -1,0 +1,30 @@
+{
+  "id": "quests-series-2",
+  "title": "Quests Series 2",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "packs": [
+    {
+      "name": "quests-series-2",
+      "label": "Quests Series 2",
+      "path": "packs/quests-series-2",
+      "type": "Adventure",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "authors": [
+    {
+      "name": "Bomberman",
+      "discord": "Bomberman1988",
+      "email": "linc.r1988@gmail.com",
+      "flags": {}
+    }
+  ]
+}
