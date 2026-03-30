@@ -1,6 +1,6 @@
 {
-  "id": "quests-series-2",
-  "title": "Quests Series 2",
+  "id": "pfs-quests-series-2",
+  "title": "PFS Quests Series 2",
   "version": "29.3.26",
   "url": "https://github.com/Bomberman1988/pfs-quests-series2",
   "manifest": "https://raw.githubusercontent.com/Bomberman1988/pfs-quests-series2/main/module.json",
@@ -11,9 +11,9 @@
   },
   "packs": [
     {
-      "name": "quests-series-2",
-      "label": "Quests Series 2",
-      "path": "packs/quests-series-2",
+      "name": "pfs-quests-series-2",
+      "label": "PFS Quests Series 2",
+      "path": "packs/pfs-quests-series-2",
       "type": "Adventure",
       "system": "pf2e",
       "ownership": {
