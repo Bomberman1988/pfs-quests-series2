@@ -2,12 +2,12 @@
   "id": "quests-series-2",
   "title": "Quests Series 2",
   "version": "29.3.26",
-"url": "https://github.com/Bomberman1988/pfs-quests-series2",
+  "url": "https://github.com/Bomberman1988/pfs-quests-series2",
   "manifest": "https://raw.githubusercontent.com/Bomberman1988/pfs-quests-series2/main/module.json",
-  "download": "https://github.com/Bomberman1988/pfs-quests-series2/releases/download/v9.1.26/pfs-quests-series2.zip",
+  "download": "https://github.com/Bomberman1988/pfs-quests-series2/releases/latest/download/pfs-quests-series2.zip",
   "compatibility": {
     "minimum": "11",
-    "verified": "12"
+    "verified": "13"
   },
   "packs": [
     {
@@ -26,8 +26,7 @@
     {
       "name": "Bomberman",
       "discord": "Bomberman1988",
-      "email": "linc.r1988@gmail.com",
-      "flags": {}
+      "email": "linc.r1988@gmail.com"
     }
   ]
 }
