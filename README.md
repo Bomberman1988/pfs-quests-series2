@@ -1,1 +1,1 @@
-URL Manifest: https://raw.githubusercontent.com/Bomberman1988/pfs-quests-series2/main/module.json
+URL Manifest: https://raw.githubusercontent.com/Bomberman1988/pfs-quests-series-2/main/module.json
